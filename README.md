@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nikship27/TripPulse-releases/releases/latest/download/TripPulse-AgenticAI.apk">
+  <a href="[https://github.com/nikship27/TripPulse-releases/releases/latest/download/TripPulse-AgenticAI.apk](https://github.com/nikship27/TripPulse-releases/releases/download/v1.0.0/TripPulse.apk)">
     <img src="https://img.shields.io/badge/⬇️_Download_Latest_APK-v1.0.0-00C853?style=for-the-badge&logo=android" alt="Download APK" height="48">
   </a>
 </p>
