@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/nikship27/TripPulse-releases/releases/latest/download/TripPulse-AgenticAI.apk](https://github.com/nikship27/TripPulse-releases/releases/download/v1.0.0/TripPulse.apk)">
+  <a href="https://github.com/nikship27/TripPulse-releases/releases/download/v1.0.0/TripPulse.apk">
     <img src="https://img.shields.io/badge/⬇️_Download_Latest_APK-v1.0.0-00C853?style=for-the-badge&logo=android" alt="Download APK" height="48">
   </a>
 </p>
@@ -22,7 +22,7 @@
 
 | Version | Release Date | Architecture | Download |
 | :--- | :--- | :--- | :--- |
-| **v1.0.0** (Latest) | 2026-08-29 | Universal (`arm64-v8a`, `armeabi-v7a`, `x86_64`) | [**Download APK (54 MB)**]([https://github.com/nikship27/TripPulse-releases/releases/latest/download/TripPulse-AgenticAI.apk](https://github.com/nikship27/TripPulse-releases/releases/download/v1.0.0/TripPulse.apk)) |
+| **v1.0.0** (Latest) | 2026-08-29 | Universal (`arm64-v8a`, `armeabi-v7a`, `x86_64`) | [**Download TripPulse.apk (54 MB)**](https://github.com/nikship27/TripPulse-releases/releases/download/v1.0.0/TripPulse.apk) |
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 📲 How to Install on Android
 
-1. Download the latest **`TripPulse-AgenticAI.apk`** from the button above.
+1. Download **`TripPulse.apk`** from the button above.
 2. Open the downloaded file from your browser's download manager or file explorer.
 3. If prompted, allow **"Install unknown apps"** for your browser or file manager:
    - Go to **Settings** → **Security & Privacy** → **Install unknown apps** → Enable for your browser.
