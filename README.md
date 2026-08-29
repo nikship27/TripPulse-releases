@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Version-v1.0.0-6C5CE7?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/github/downloads/nikship27/TripPulse-releases/total?style=for-the-badge&color=00C853&logo=github&label=Downloads" alt="Total Downloads" />
   <img src="https://img.shields.io/badge/License-Proprietary-gray?style=for-the-badge" alt="License" />
 </p>
 
