@@ -22,7 +22,7 @@
 
 | Version | Release Date | Architecture | Download |
 | :--- | :--- | :--- | :--- |
-| **v1.0.0** (Latest) | 2026-08-29 | Universal (`arm64-v8a`, `armeabi-v7a`, `x86_64`) | [**Download APK (54 MB)**](https://github.com/nikship27/TripPulse-releases/releases/latest/download/TripPulse-AgenticAI.apk) |
+| **v1.0.0** (Latest) | 2026-08-29 | Universal (`arm64-v8a`, `armeabi-v7a`, `x86_64`) | [**Download APK (54 MB)**]([https://github.com/nikship27/TripPulse-releases/releases/latest/download/TripPulse-AgenticAI.apk](https://github.com/nikship27/TripPulse-releases/releases/download/v1.0.0/TripPulse.apk)) |
 
 ---
 
