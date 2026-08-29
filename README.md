@@ -18,6 +18,17 @@
 
 ---
 
+## 📸 App Showcase & UI Previews
+
+<p align="center">
+  <img src="screenshots/qa_screen_explore.png" width="230" alt="Explore Radar" />
+  <img src="screenshots/qa_screen_plan_trip.png" width="230" alt="Plan Trip Wizard" />
+  <img src="screenshots/qa_screen_copilot_modal.png" width="230" alt="AI Copilot Modal" />
+  <img src="screenshots/qa_screen_saved_trips.png" width="230" alt="Saved Trips" />
+</p>
+
+---
+
 ## 🚀 Download Links
 
 | Version | Release Date | Architecture | Download |
